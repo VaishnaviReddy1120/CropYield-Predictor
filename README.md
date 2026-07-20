@@ -51,4 +51,5 @@ to get instant yield predictions with farming advice.
 
 ## How to Run
 pip install pandas numpy matplotlib seaborn scikit-learn xgboost streamlit
+
 streamlit run app.py
